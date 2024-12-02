@@ -111,3 +111,25 @@ div.text{
     display: flex;
     flex-wrap: wrap;
 }
+.m2{
+    background-color: rgb(220, 215, 215);
+    height: 250px;
+    width: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.dedica{
+    width: 420px;
+    display: flex;
+    flex-wrap: wrap;
+    color: black;
+}
+.credito{
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+    width: 420px;
+    color: black;
+}
